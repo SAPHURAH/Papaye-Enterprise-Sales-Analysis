@@ -175,7 +175,7 @@ This figure represents the total sales value captured in the 2022 dataset.
 
 The dashboard below provides a visual summary of Papaye Enterprise's 2022 sales performance.
 
-![Papaye Enterprise 2022 Sales Dashboard](dashboard/Papaye_Enterprise_Report_2022.png)
+![Papaye Enterprise 2022 Sales Dashboard](./Papaye%20Enterprise%20Dashboard.png)
 
 The dashboard provides an overview of the major sales and customer trends identified during the analysis.
 
