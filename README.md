@@ -285,15 +285,13 @@ Contains the final visual report/dashboard presenting the major findings from th
 
 The final dashboard created in Microsoft Excel can be viewed in the `dashboard` folder.
 
-> **Dashboard image will be added to this repository.**
+![Papaye Enterprise Dashboard](dashboard/Papaye_Enterprise_Dashboard.png)
 
 ---
 
-##  What I Learned
 
-Through this project, I practiced the complete process of performing a business-focused data analysis using Excel.
 
-Key skills developed include:
+## Key skills developed include:
 
 * Cleaning and preparing raw data
 * Creating useful derived fields
